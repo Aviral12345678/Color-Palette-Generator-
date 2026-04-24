@@ -25,3 +25,10 @@ A simple web project that generates random color palettes and lets you copy hex 
 
 - The app uses the browser Clipboard API, so it works best in modern browsers.
 - No build tools or dependencies are required.
+|
+|
+|
+|
+|
+|
+contact me :- https://www.linkedin.com/in/aviral-trivedi-2132b227b/
